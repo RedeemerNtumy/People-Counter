@@ -36,6 +36,5 @@ This is a Computer Vision program that counts the number of people entering and 
   - Video integrated into dashboard for live preview of people entering and leaving
   - Database which saves the number of people entering and leaving and the timestamps
   - A data table which shows the the daily number of people who entered the building
-  - 
-
+ 
   
