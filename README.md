@@ -16,16 +16,7 @@ This is a Computer Vision program that counts the number of people entering and 
 
    `python -m pip install -r requirements.txt`
 
-   *NB:  The system has been tested using Python 3.7.4 to 3.8.5*
-
-5. To start the web server, navigate to the `/website/` directory and run the command: 
-
-   `flask run`
-
-6. To start the desktop application, navigate the `/desktop-app/` directory and run the command: 
-
-   `python alpha_main.py`
-
+5. Run counter.py to get the app working
    
 
 
